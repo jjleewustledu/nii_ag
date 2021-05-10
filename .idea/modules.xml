@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../graph_nets/.idea/graph_nets.iml" filepath="$PROJECT_DIR$/../graph_nets/.idea/graph_nets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../networkx/.idea/networkx.iml" filepath="$PROJECT_DIR$/../networkx/.idea/networkx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nii_ag.iml" filepath="$PROJECT_DIR$/.idea/nii_ag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sonnet/.idea/sonnet.iml" filepath="$PROJECT_DIR$/../sonnet/.idea/sonnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tree/.idea/tree.iml" filepath="$PROJECT_DIR$/../tree/.idea/tree.iml" />
+    </modules>
+  </component>
+</project>
